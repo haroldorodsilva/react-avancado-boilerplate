@@ -1,4 +1,5 @@
+import Main from 'components/Main'
+
 export default function Home() {
-  // const bla = 'teste'
-  return <div>Next App</div>
+  return <Main />
 }
